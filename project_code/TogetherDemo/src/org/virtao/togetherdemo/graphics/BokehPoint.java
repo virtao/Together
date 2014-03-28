@@ -11,6 +11,7 @@ public class BokehPoint {
 	int mNowX;
 	int mNowY;
 	long mDuration;
+	float mRadius;
 	Color mStartColor;
 	Color mEndColor;
 	Color mNowColor;
@@ -32,7 +33,7 @@ public class BokehPoint {
 		BokehPoint.logicalDensity = logicalDensity;
 	}
 
-	public BokehPoint(int mStartX, int mStartY, int mGoalX, int mGoalY, long mDuration, Color mStartColor, Color mEndColor) {
+	public BokehPoint(int mStartX, int mStartY, int mGoalX, int mGoalY, long mDuration, float mRadius, Color mStartColor, Color mEndColor) {
 		this.mStartX = mStartX;
 		this.mStartY = mStartY;
 		this.mGoalX = mGoalX;
@@ -43,6 +44,7 @@ public class BokehPoint {
 		this.mNowX = mStartX;
 		this.mNowY = mStartY;
 		this.mNowColor = mStartColor;
+		this.mRadius = mRadius;
 		
 		this.mStartTime = 0;
 		this.isFinished = false;
@@ -71,14 +73,15 @@ public class BokehPoint {
 		double ratio = (double)(mTimeNow - mStartTime) / mDuration;
 		mNowX = (int)((mGoalX - mStartX) * ratio + mStartX);
 		mNowY = (int)((mGoalY - mStartY) * ratio + mStartY);
-		Color.evolution(ratio, mNowColor, mStartColor, mEndColor);
+		//Color.evolution(ratio, mNowColor, mStartColor, mEndColor);
+		mNowColor = mStartColor;
 
 		return true;
 	}
 	
     public void doDraw(Canvas canvas) {
     	mPaint.setColor(this.mNowColor.getColor());
-    	canvas.drawCircle(px2dp(this.mNowX), px2dp(this.mNowY), 10, mPaint);	
+    	canvas.drawCircle(px2dp(this.mNowX), px2dp(this.mNowY), mRadius, mPaint);	
     }
     
     private int dp2px(float dp) {
