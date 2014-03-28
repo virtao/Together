@@ -1,16 +1,17 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Android"
         ],
         "platforms": [
-            "insert platforms"
+            "Android"
         ],
         "toolkits": [
-            "insert toolkits"
+            "eclipse",
+            "ADT"
         ]
     },
     "themes": [
-        "insert themes"
+        ""
     ]
 }

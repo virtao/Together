@@ -5,7 +5,7 @@ We are all artist.
 ## Authors
 
 * Yuexi Dong
-* Jingtao He
+* [Jingtao He](http://blog.virtao.org)
 
 ## Description
 
@@ -15,8 +15,15 @@ I hope that people in different places on earth could be gathered together creat
 
 First , divide the world map and each GPS coordinates should correspond to the respective color ( within a fixed time , if a person were displaced , and the color which he corresponding to is gradient) . In certain unit time, each participant will use the phone gyroscope data to describe the trajectory of the color which represents him and the volume of the choice chosen by him. Finally, all the data of the participants will be uploaded to synthesize a digital image art work which will display on the platform. If there are 10 people participate and pair at the same time, it will appear a audio synthesized with 10 tracks and a video formed with 10 constantly changing colors. The head portraits ​​of all participants will form the cover of the art work.
 
-## Sample Image
+
+## Link to Prototype
+
+[Prototype APK Link](project_code/TogetherDemo.apk)
+
+## Images & Videos
 
 ![Sample image](project_images/sample.png)
 
-## GitHub
+## Github
+
+[Link](https://github.com/virtao/Together)

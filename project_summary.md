@@ -5,7 +5,7 @@ We are all artist.
 ## Authors
 
 * Yuexi Dong
-* Jingtao He
+* [Jingtao He](http://blog.virtao.org)
 
 ## Description
 
@@ -18,17 +18,12 @@ First , divide the world map and each GPS coordinates should correspond to the r
 
 ## Link to Prototype
 
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
+[Prototype APK Link](project_code/TogetherDemo.apk)
 
 ## Images & Videos
 
 ![Sample image](project_images/sample.png)
 
+## Github
+
+[Link](https://github.com/virtao/Together)
