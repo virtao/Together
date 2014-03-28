@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+    "settings":
+    {
+		"sublimegdb_workingdir": ".",
+		// NOTE: You MUST provide --interpreter=mi for the plugin to work
+		"sublimegdb_commandline": "D:\\MyDrive\\MyApps\\MinGW64\\bin\\gdb.exe --interpreter=mi .\\src\\TogetherServer.exe"
+    }
+}

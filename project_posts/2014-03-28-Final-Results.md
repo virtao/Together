@@ -1,4 +1,4 @@
-Due to reasons of time, we just realized the prototype client. All data are simulated.
+Due to reasons of time, we just realized the prototype server and client. All data are simulated.
 
 Data simulate code:
 

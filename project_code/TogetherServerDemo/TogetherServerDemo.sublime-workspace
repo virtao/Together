@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"udp",
+				"udpConn	*net.UDPConn ν"
+			],
+			[
+				"co",
+				"ConvertStringOK	result string, ok bool ƒ"
+			],
+			[
+				"db",
+				"DbName	string ν"
+			],
+			[
+				"wr",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"D",
+				"dataUnit	struct ʈ"
+			],
+			[
+				"gen",
+				"GenerateSearchCondFromParam	ret *list.List, err error ƒ"
+			],
+			[
+				"String",
+				"stringArray	[]string, error ƒ"
+			],
+			[
+				"mus",
+				"MustString	string ƒ"
+			],
+			[
+				"a",
+				"MustArray	[]interface{} ƒ"
+			],
+			[
+				"conten",
+				"content_map	map[string]interface{} ν"
+			],
+			[
+				"l",
+				"LogFile	string ν"
+			],
+			[
+				"mu",
+				"MustBool	bool ƒ"
+			],
+			[
+				"Must",
+				"MustBool	bool ƒ"
+			],
+			[
+				"outf",
+				"outFileMap	map[string]string ν"
+			],
+			[
+				"get",
+				"GetParamsString	value string ƒ"
+			],
+			[
+				"out",
+				"outFiles	map[string]*outFile ν"
+			],
+			[
+				"tr",
+				"TrimSpace	string ƒ"
+			],
+			[
+				"reg",
+				"regRet	[][]string ν"
+			],
+			[
+				"err",
+				"errCount	uint64 ν"
+			],
+			[
+				"d",
+				"NewDecoder	mahonia.Decoder ƒ"
+			],
+			[
+				"test",
+				"testFileList	 ƒ"
+			],
+			[
+				"pu",
+				"PushBackList	 ƒ"
+			],
+			[
+				"pa",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"p",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"re",
+				"Replace	string ƒ"
+			],
+			[
+				"strings",
+				"stringsMap	ret map[string][]string, err error ƒ"
+			],
+			[
+				"rep",
+				"replaceArrayStrings	[]string ν"
+			],
+			[
+				"spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"for",
+				"FormatUint	string ƒ"
+			],
+			[
+				"Pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"gs_",
+				"gs_comp_lint"
+			],
+			[
+				"New",
+				"NewFileLogWriter	*log4go.FileLogWriter ƒ"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"new",
+				"NewWriter	*bufio.Writer ƒ"
+			],
+			[
+				"o",
+				"O_RDWR	 Ɩ"
+			],
+			[
+				"I",
+				"InputFile	string ν"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"str",
+				"String	*string ƒ"
+			],
+			[
+				"fl",
+				"flag	 package ρ"
+			],
+			[
+				"B",
+				"Bool	*bool ƒ"
+			],
+			[
+				"In",
+				"IntVar	 ƒ"
+			],
+			[
+				"int",
+				"IntVar	 ƒ"
+			],
+			[
+				"Str",
+				"StringVar	 ƒ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"flo",
+				"float64	built-in ʈ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TogetherServerDemo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.go",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/CacheControl.go",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Windows",
+				"name": "package main"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Browse Declarations"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/parse/condProc.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/config.json",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/utils/params.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/parse/batch.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/LogSearch.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/doc/batch.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/github.com/bitly/go-simplejson/simplejson.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/utils/globallog.go",
+		"/J/WorkSpace/Go语言学习/技术文档/Golang迭代器的几种实现方法及性能对比/golang-iterators-benchmark/iterator_test.go",
+		"/J/WorkSpace/Go语言学习/技术文档/Golang迭代器的几种实现方法及性能对比/golang-iterators-benchmark/iterator.go",
+		"/J/WorkSpace/Go-iterator/iterator4go/iterator.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/parse/batchEx.go",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/config-sample.json",
+		"/J/WorkSpace/u1gameProject/Go-LogSearch/LogSearch/src/test/LogSearchTest.go",
+		"/J/WorkSpace/Go语言学习/我的代码/020-dateTimeCovert.go",
+		"/c/users/admini~1/appdata/local/temp/2/bindist667667715/go/src/pkg/runtime/proc.c",
+		"/J/WorkSpace/Go-LogSearch/LogSearch/src/log.log",
+		"/J/WorkSpace/Go语言学习/我的代码/033-isFileExist.go",
+		"/J/WorkSpace/Go-LogSearch/LogSearch/src/config-sample.json",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/GoSublime/CHANGELOG.md",
+		"/F/LogSearch/LogSearch/src/github.com/bitly/go-simplejson/simplejson.go",
+		"/F/LogSearch/LogSearch/src/LogSearchTest.go",
+		"/F/LogSearch/LogSearch/src/code.google.com/p/mahonia/convert_string.go",
+		"/F/LogSearch/LogSearch/src/code.google.com/p/mahonia/charset.go",
+		"/F/LogSearch/LogSearch/src/regextest.go",
+		"/F/LogSearch/LogSearch/LogSearch.sublime-project",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/User/GoSublime.sublime-settings",
+		"/F/LogSearch/LogSearch/src/github.com/alecthomas/log4go/log4go.go",
+		"/J/WorkSpace/Go语言学习/我的代码/SeekAndModifyFile/SROtools.go",
+		"/J/WorkSpace/Go语言学习/我的代码/026-interfaceConvert.go",
+		"/F/Go-logParse/src/github.com/alecthomas/log4go/log4go.go",
+		"/F/Go-logParse/src/github.com/weigj/go-odbc/odbc.go",
+		"/F/Go-logParse/src/utils/params.go",
+		"/F/Go-logParse/src/parse/parse.go",
+		"/F/Go-logParse/src/main.go",
+		"/F/Go-logParse/src/utils/globallog.go",
+		"/F/Go-logParse/src/parse/batch.go",
+		"/J/WorkSpace/Go语言学习/我的代码/025-getExeFilePath.go",
+		"/F/ItemLog-2013-11-7/parse/parse.go",
+		"/J/WorkSpace/Go语言学习/我的代码/024-singleLogger.go",
+		"/J/WorkSpace/Go-logParse/src/main.go",
+		"/J/WorkSpace/Go-logParse/Go-logParse.sublime-project",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/User/SublimeGDB.sublime-settings",
+		"/J/WorkSpace/Go-logParse/src/utils/globallog.go",
+		"/J/WorkSpace/Go-logParse/src/utils/params.go",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/GoSublime/GoSublime.sublime-settings",
+		"/J/WorkSpace/Go-logParse/src/logs/main.go",
+		"/J/WorkSpace/Go-logParse/src/libs/log4go/socklog.go",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/J/WorkSpace/Go-logParse/main.go",
+		"/J/WorkSpace/Go-logParse/utils/globallog.go",
+		"/J/WorkSpace/Go-logParse/utils/params.go",
+		"/J/WorkSpace/Go-logParse/libs/log4go/pattlog.go",
+		"/J/WorkSpace/Go-logParse/libs/log4go/config.go",
+		"/J/WorkSpace/Go-logParse/params.go",
+		"/J/WorkSpace/Go-logParse/utils/GlobalLog.go",
+		"/D/MyApps/go/gopath/src/github.com/scale-it/go-log/color.go",
+		"/D/MyApps/go/gopath/src/github.com/scale-it/go-log/formatters.go",
+		"/D/MyApps/go/gopath/src/github.com/scale-it/go-log/handlers.go",
+		"/D/MyApps/go/gopath/src/github.com/scale-it/go-log/log.go",
+		"/J/WorkSpace/Go-logParse/libs/tmlog/tmlog.go",
+		"/J/WorkSpace/Go-logParse/libs/log4go/log4go.go",
+		"/J/WorkSpace/Go语言学习/我的心得/log4go日志组件的使用/log4go/examples/ConsoleLogWriter_Manual.go",
+		"/J/WorkSpace/Go语言学习/我的心得/log4go日志组件的使用/log4go/examples/FileLogWriter_Manual.go",
+		"/J/WorkSpace/Go语言学习/我的心得/log4go日志组件的使用/log4go日志组件的使用.md",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/J/WorkSpace/Go语言学习/我的代码/023-cmdFlagParse.go",
+		"/J/WorkSpace/Go语言学习/我的心得/Go中使用flag库处理命令行参数.md",
+		"/J/WorkSpace/Go语言学习/我的代码/022-jsonParse.go",
+		"/J/WorkSpace/Go语言学习/我的心得/Go中使用JSON.md",
+		"/C/Users/Sdhjt/Dropbox/SublimeText3/Data/Packages/GoSublime/9o.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Content",
+			"generate",
+			"line2map",
+			"stringmap",
+			"dataUnit",
+			"matchdb",
+			"strDate",
+			"bufJson",
+			"dateStr",
+			"now",
+			"sec",
+			"min",
+			"hour",
+			"(),",
+			"month",
+			"(), ",
+			"writers",
+			"writes",
+			"		\n",
+			"continue",
+			"dbname",
+			"fileName",
+			"B_TAG",
+			"))\n",
+			"\n			",
+			"utils",
+			"err",
+			"log",
+			"TAG",
+			"LogWriter",
+			"newlogger",
+			"logwrite",
+			"writerMutexMap",
+			"log_write_file",
+			"log_run",
+			"newlogger",
+			"hide",
+			"goto",
+			"js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"B_TAG"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TogetherServerDemo.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 606.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/CacheControl.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								980
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TogetherServerDemo.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

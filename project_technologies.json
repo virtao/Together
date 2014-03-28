@@ -8,7 +8,8 @@
         ],
         "toolkits": [
             "eclipse",
-            "ADT"
+            "ADT",
+            "Go"
         ]
     },
     "themes": [
